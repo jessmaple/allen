@@ -74,7 +74,7 @@ section{
 
 /* header */
 .header{
-    background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.7)), url(../assets/pexels-brett-sayles-4373998.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.7)), url(../assets/shutterstock_302647640.jpg);
     min-height: 100vh;
     background-position: center;
     background-size: cover;
