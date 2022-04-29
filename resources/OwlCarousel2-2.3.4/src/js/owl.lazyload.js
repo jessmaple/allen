@@ -32,7 +32,7 @@
 		 * Event handlers.
 		 * @protected
 		 * @type {Object}
-		 */
+		 **/
 		this._handlers = {
 			'initialized.owl.carousel change.owl.carousel resized.owl.carousel': $.proxy(function(e) {
 				if (!e.namespace) {
